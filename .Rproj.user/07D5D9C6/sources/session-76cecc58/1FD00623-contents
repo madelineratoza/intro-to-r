@@ -1,0 +1,9 @@
+---
+title: 'Lesson 1: Getting Started in R'
+author: "Madeline Ratoza"
+date: "2026-02-04"
+output: html_document
+editor_options: 
+  markdown: 
+    wrap: 72
+---

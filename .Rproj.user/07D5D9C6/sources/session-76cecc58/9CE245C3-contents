@@ -1,16 +1,8 @@
 ---
-title: "Intro to R: Getting Started"
-author: "Madeline Ratoza"
-format:
-  html:
-    theme: darkly
-    toc: true
-    toc-depth: 2
-    embed-resources: true
-execute:
-  echo: true
-  warning: false
-  message: false
+title: "Intro to R"
+format: html
+editor: visual
+theme: darkly
 ---
 
 ### **Goal of this lesson:**
